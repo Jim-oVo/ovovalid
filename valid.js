@@ -1,1 +1,1 @@
-let scriptVersionLatest ="2";
+let scriptVersion = "2";
